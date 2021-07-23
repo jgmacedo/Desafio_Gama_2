@@ -13,10 +13,10 @@ export const Container = styled.div`
         .product-content{
             display: grid;
             text-align: center;
-            height: 300px;
+            height: 350px;
             background: #fff;
             border-radius: 12px;
-            padding: 12px;
+            padding: 21px;
          }
     }
 `
