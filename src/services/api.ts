@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-    baseURL: 'https://raw.githubusercontent.com/jgmacedo/Archives/main/produtos.json'
+    baseURL: 'localstorage:8888/produtos'
     
 })
 
